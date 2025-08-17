@@ -12,7 +12,7 @@ To change the target game:
 
 2. Find this line:
  
-  # Set your game here
+Set your game here
 $GameProcessName = "r5apex_dx12"   # Replace with your game's process name (no .exe)
 $SteamAppID = "1172470"            # Optional: Replace with your game's Steam ID (if you're unsure how to find the name of your games process, open task manager>details with the game running 
 
